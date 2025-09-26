@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quoca\\Desktop\\Lap trinh nang cao\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCC8DB3-61E8-44F5-8942-B7FF027786D7}|WinFormsApp1.csproj|c:\\users\\quoca\\desktop\\lap trinh nang cao\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCCC8DB3-61E8-44F5-8942-B7FF027786D7}|WinFormsApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCC8DB3-61E8-44F5-8942-B7FF027786D7}|WinFormsApp1.csproj|c:\\users\\quoca\\desktop\\lap trinh nang cao\\winformsapp1\\tinhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCCC8DB3-61E8-44F5-8942-B7FF027786D7}|WinFormsApp1.csproj|solutionrelative:tinhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCC8DB3-61E8-44F5-8942-B7FF027786D7}|WinFormsApp1.csproj|C:\\Users\\quoca\\Desktop\\Lap trinh nang cao\\WinFormsApp1\\tinhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCCC8DB3-61E8-44F5-8942-B7FF027786D7}|WinFormsApp1.csproj|solutionrelative:tinhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCC8DB3-61E8-44F5-8942-B7FF027786D7}|WinFormsApp1.csproj|c:\\users\\quoca\\desktop\\lap trinh nang cao\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCCC8DB3-61E8-44F5-8942-B7FF027786D7}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\quoca\\Desktop\\Lap trinh nang cao\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\quoca\\Desktop\\Lap trinh nang cao\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwCgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T07:57:53.585Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\quoca\\Desktop\\Lap trinh nang cao\\WinFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\quoca\\Desktop\\Lap trinh nang cao\\WinFormsApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T05:52:08.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tinhToan.cs",
+              "DocumentMoniker": "C:\\Users\\quoca\\Desktop\\Lap trinh nang cao\\WinFormsApp1\\tinhToan.cs",
+              "RelativeDocumentMoniker": "tinhToan.cs",
+              "ToolTip": "C:\\Users\\quoca\\Desktop\\Lap trinh nang cao\\WinFormsApp1\\tinhToan.cs",
+              "RelativeToolTip": "tinhToan.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAEkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T05:46:47.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tinhToan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quoca\\Desktop\\Lap trinh nang cao\\WinFormsApp1\\tinhToan.cs",
+              "RelativeDocumentMoniker": "tinhToan.cs",
+              "ToolTip": "C:\\Users\\quoca\\Desktop\\lap trinh\\WinFormsApp1\\tinhToan.cs [Design]",
+              "RelativeToolTip": "..\\..\\lap trinh\\WinFormsApp1\\tinhToan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T05:17:45.842Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
